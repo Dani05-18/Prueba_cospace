@@ -30,7 +30,7 @@
   },
   "devDependencies": {
     "@tailwindcss/turbopack": "^4",
-    "@types/node": "^20",
+    "@types/node": "^22.0.0",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^9",
@@ -39,7 +39,7 @@
     "tsx": "^4.23.15",
     "typescript": "^5",
     "vite": "^8.3.5",
-    "vitest": "^5.0.5"
+    "vitest": "^4.6.0"
   }
 }
 
